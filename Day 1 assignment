@@ -1,0 +1,4 @@
+X= int(input("X"))
+Y= int(input("Y"))     
+power = X ** Y
+print("Result is =",power)
